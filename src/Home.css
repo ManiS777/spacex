@@ -1,0 +1,19 @@
+.parent {
+    background-color: lightgray;
+    display:flex;
+    flex-direction: row;
+    padding-top:30px
+
+  }
+  .sidebar {
+width:20%
+  }
+  .custom-container{
+      width:80%
+  }
+  .sidebar-year {
+      background-color: lightseagreen;
+      border-radius: 70%;
+      text-align: center;
+      margin-bottom: 20px;
+  }
